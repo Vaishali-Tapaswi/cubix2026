@@ -8,4 +8,4 @@ Docker and K8S
 CPU vs GPU 		
 	https://www.youtube.com/watch?v=jQe1doWRVDw
 	
-DeepSeek AI 
+andrew ng course of ai 
