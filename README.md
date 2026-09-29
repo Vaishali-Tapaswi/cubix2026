@@ -9,3 +9,5 @@ CPU vs GPU
 	https://www.youtube.com/watch?v=jQe1doWRVDw
 	
 andrew ng course of ai 
+
+Nana Janashia - Rag vs Agents Vs AgenticAI
